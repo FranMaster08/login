@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Front Login Key",
+        "tipoToken": {
+            "id": 1,
+            "name": "Login"
+        },
+        "apikey": "front-login-key",
+        "secretHash": "$2b$10$N9qo8uLOickgx2ZMRZoMyeIjUM0VvZJ9AvjZ4zV9BwoY.eMoU.BK."
+    }
+]
